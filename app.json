@@ -1,7 +1,7 @@
 {
-  "name": "Cool guy bot",
-  "description": "Basic Groupme Bot written in Node",
-  "repository": "https://github.com/petemcgrath/cool-guy-bot",
-  "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
+  "name": "Spooky Butler",
+  "description": "Boo",
+  "repository": "https://github.com/coal760/spooky-butler",
+  "logo": "https://www.google.com/search?q=spooky+butler&rlz=1C1GGRV_enUS751US751&tbm=isch&source=iu&ictx=1&fir=K48-V-T9PjPOFM%253A%252CNTxldPXrry0LjM%252C_&usg=AI4_-kSofqxqvADgI_LMAWuGTkaC2tmu1w&sa=X&ved=2ahUKEwjakMyTjfrdAhUJ0lMKHb70DWcQ9QEwBHoECAQQDA#imgrc=K48-V-T9PjPOFM:",
   "keywords": []
 }
